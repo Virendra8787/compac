@@ -90,7 +90,7 @@ a {
 }
 
 @media screen and (max-width: 600px) {
-    body {
-      font-size: 10px;
+    .heading-container {
+        padding: 1rem;
     }
   }
